@@ -23,4 +23,8 @@
 ######   vagrant ssh-config
 ````
 #### 7. Load the Identity file using PuTTYGen and generate the private key
+````
+````
 #### 8. Use the private key in putty(SSH->AUTH) to connect using user vagrant
+````
+````
